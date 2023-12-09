@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :woman_technologist: About Me : 
+### About Me : 
 
 I am a Year 2 Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> studying in NUS.
 
@@ -25,13 +25,11 @@ I am a Year 2 Computer Science Student <img src="https://media.giphy.com/media/W
 
 - :seedling: Currently improving my knowledge on cryptocurrency.
 
-- :zap: In my free time, I do CTFS.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-qiu-a814ab164)
+- :zap: In my free time, I do Web development (Full Stack), AI.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -48,7 +46,7 @@ I am a Year 2 Computer Science Student <img src="https://media.giphy.com/media/W
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RyanQiu1&theme=dark&border_radius=6)](https://git.io/streak-stats)
 
