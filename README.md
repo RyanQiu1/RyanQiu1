@@ -48,6 +48,6 @@ I am a Year 3 Computer Science Student <img src="https://media.giphy.com/media/W
 
 ### My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RyanQiu1&theme=dark&border_radius=6)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RyanQiu1)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanQiu1&layout=compact&theme=vision-friendly-dark)](https://github.com/RyanQiu1/github-readme-stats)
