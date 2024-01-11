@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I am a Year 3 Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> studying in NUS.
 
-- :telescope: I’m working on side projects relating to software engineering.
+- :telescope: I’m working on side projects relating to software engineering and cyber security.
 
 - :seedling: Currently improving my knowledge on cryptocurrency.
 
@@ -48,6 +48,6 @@ I am a Year 3 Computer Science Student <img src="https://media.giphy.com/media/W
 
 ### My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RyanQiu1&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanQiu1&layout=compact&theme=vision-friendly-dark)](https://github.com/RyanQiu1/github-readme-stats)
