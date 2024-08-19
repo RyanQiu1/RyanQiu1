@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### About Me : 
 
-I am a Year 3 Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> studying in NUS.
+I am a Year 4 Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> studying in NUS.
 
 - :telescope: I’m working on side projects relating to software engineering and cyber security.
 
